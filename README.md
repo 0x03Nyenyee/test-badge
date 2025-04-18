@@ -6,5 +6,5 @@
   <br>
   <a href="https://www.tiktok.com/"><img src="https://img.shields.io/badge/tiktok-d5d5d5?style=for-the-badge&logo=tiktok&logoColor=0A0209" /></a>
   <a href="https://facebook.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/facebook-d5d5d5?style=for-the-badge&logo=facebook&logoColor=0A0209" /></a> 
-  <a href="https://facebook.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/facebook-d5d5d5?style=for-the-badge&logo=facebook&logoColor=0A0209" /></a> 
+  <a href="https://twitter.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" /></a> 
 </div>
