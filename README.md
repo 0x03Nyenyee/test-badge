@@ -1,4 +1,7 @@
-> You can like, follow or send me message, and we can play if you want. Because i am N O L E P [nyenyee](https://nyenyeeits.me/).
+<br>
+<hr>
+
+> You can like, follow or send me message, and we can play if you want. Because i am [NOLEP](https://nyenyeeits.me/).
 <div align="center">
 	<a href="https://facebook.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=69957B" /></a> 
 	<br>
@@ -10,4 +13,4 @@
 	<a href="https://youtube.com/itsnemoo"><img src="https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=69957B" ></a>
 </div>
 
-
+<hr>
